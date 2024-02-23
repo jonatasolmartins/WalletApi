@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ModularMonolith.Modules.Wallets.Api.props" />
+</Project>

@@ -1,0 +1,13 @@
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/bin/Debug/net8.0/ModularMonolith.Shared.deps.json
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/bin/Debug/net8.0/ModularMonolith.Shared.dll
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/bin/Debug/net8.0/ModularMonolith.Shared.pdb
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/obj/Debug/net8.0/ModularMonolith.Shared.csproj.AssemblyReference.cache
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/obj/Debug/net8.0/ModularMonolith.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/obj/Debug/net8.0/ModularMonolith.Shared.AssemblyInfoInputs.cache
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/obj/Debug/net8.0/ModularMonolith.Shared.AssemblyInfo.cs
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/obj/Debug/net8.0/ModularMonolith.Shared.csproj.CoreCompileInputs.cache
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/obj/Debug/net8.0/ModularMonolith.Shared.sourcelink.json
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/obj/Debug/net8.0/ModularMonolith.Shared.dll
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/obj/Debug/net8.0/refint/ModularMonolith.Shared.dll
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/obj/Debug/net8.0/ModularMonolith.Shared.pdb
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/obj/Debug/net8.0/ref/ModularMonolith.Shared.dll

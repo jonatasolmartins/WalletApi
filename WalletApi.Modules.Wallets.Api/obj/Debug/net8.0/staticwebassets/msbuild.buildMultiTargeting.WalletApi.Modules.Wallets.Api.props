@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/WalletApi.Modules.Wallets.Api.props" />
+</Project>

@@ -1,0 +1,12 @@
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Modules.Wallets.Shared/bin/Debug/net8.0/ModularMonolith.Modules.Wallets.Shared.deps.json
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Modules.Wallets.Shared/bin/Debug/net8.0/ModularMonolith.Modules.Wallets.Shared.dll
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Modules.Wallets.Shared/bin/Debug/net8.0/ModularMonolith.Modules.Wallets.Shared.pdb
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Modules.Wallets.Shared/obj/Debug/net8.0/ModularMonolith.Modules.Wallets.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Modules.Wallets.Shared/obj/Debug/net8.0/ModularMonolith.Modules.Wallets.Shared.AssemblyInfoInputs.cache
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Modules.Wallets.Shared/obj/Debug/net8.0/ModularMonolith.Modules.Wallets.Shared.AssemblyInfo.cs
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Modules.Wallets.Shared/obj/Debug/net8.0/ModularMonolith.Modules.Wallets.Shared.csproj.CoreCompileInputs.cache
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Modules.Wallets.Shared/obj/Debug/net8.0/ModularMonolith.Modules.Wallets.Shared.sourcelink.json
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Modules.Wallets.Shared/obj/Debug/net8.0/ModularMonolith.Modules.Wallets.Shared.dll
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Modules.Wallets.Shared/obj/Debug/net8.0/refint/ModularMonolith.Modules.Wallets.Shared.dll
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Modules.Wallets.Shared/obj/Debug/net8.0/ModularMonolith.Modules.Wallets.Shared.pdb
+/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Modules.Wallets.Shared/obj/Debug/net8.0/ref/ModularMonolith.Modules.Wallets.Shared.dll

@@ -1,0 +1,11 @@
+/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Shared/bin/Debug/net8.0/WalletApi.Modules.Wallets.Shared.deps.json
+/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Shared/bin/Debug/net8.0/WalletApi.Modules.Wallets.Shared.dll
+/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Shared/bin/Debug/net8.0/WalletApi.Modules.Wallets.Shared.pdb
+/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Shared/obj/Debug/net8.0/WalletApi.Modules.Wallets.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Shared/obj/Debug/net8.0/WalletApi.Modules.Wallets.Shared.AssemblyInfoInputs.cache
+/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Shared/obj/Debug/net8.0/WalletApi.Modules.Wallets.Shared.AssemblyInfo.cs
+/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Shared/obj/Debug/net8.0/WalletApi.Modules.Wallets.Shared.csproj.CoreCompileInputs.cache
+/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Shared/obj/Debug/net8.0/WalletApi.Modules.Wallets.Shared.dll
+/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Shared/obj/Debug/net8.0/refint/WalletApi.Modules.Wallets.Shared.dll
+/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Shared/obj/Debug/net8.0/WalletApi.Modules.Wallets.Shared.pdb
+/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Shared/obj/Debug/net8.0/ref/WalletApi.Modules.Wallets.Shared.dll

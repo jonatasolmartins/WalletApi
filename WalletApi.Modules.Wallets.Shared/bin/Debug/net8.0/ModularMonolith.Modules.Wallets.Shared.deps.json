@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ModularMonolith.Modules.Wallets.Shared/1.0.0": {
+        "runtime": {
+          "ModularMonolith.Modules.Wallets.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ModularMonolith.Modules.Wallets.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

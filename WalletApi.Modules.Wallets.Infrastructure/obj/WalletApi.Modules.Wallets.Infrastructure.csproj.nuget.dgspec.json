@@ -1,0 +1,252 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Infrastructure/WalletApi.Modules.Wallets.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/ModularMonolith.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/ModularMonolith.Shared.csproj",
+        "projectName": "ModularMonolith.Shared",
+        "projectPath": "/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/ModularMonolith.Shared.csproj",
+        "packagesPath": "/Users/jonatasolzirismartins/.nuget/packages/",
+        "outputPath": "/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jonatasolzirismartins/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/WalletApi.Modules.Wallets.Shared/WalletApi.Modules.Wallets.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/WalletApi.Modules.Wallets.Shared/WalletApi.Modules.Wallets.Shared.csproj",
+        "projectName": "WalletApi.Modules.Wallets.Shared",
+        "projectPath": "/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/WalletApi.Modules.Wallets.Shared/WalletApi.Modules.Wallets.Shared.csproj",
+        "packagesPath": "/Users/jonatasolzirismartins/.nuget/packages/",
+        "outputPath": "/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/WalletApi.Modules.Wallets.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jonatasolzirismartins/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Core/WalletApi.Modules.Wallets.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Core/WalletApi.Modules.Wallets.Core.csproj",
+        "projectName": "WalletApi.Modules.Wallets.Core",
+        "projectPath": "/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Core/WalletApi.Modules.Wallets.Core.csproj",
+        "packagesPath": "/Users/jonatasolzirismartins/.nuget/packages/",
+        "outputPath": "/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jonatasolzirismartins/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/ModularMonolith.Shared.csproj": {
+                "projectPath": "/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/ModularMonolith.Shared.csproj"
+              },
+              "/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/WalletApi.Modules.Wallets.Shared/WalletApi.Modules.Wallets.Shared.csproj": {
+                "projectPath": "/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/WalletApi.Modules.Wallets.Shared/WalletApi.Modules.Wallets.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Infrastructure/WalletApi.Modules.Wallets.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Infrastructure/WalletApi.Modules.Wallets.Infrastructure.csproj",
+        "projectName": "WalletApi.Modules.Wallets.Infrastructure",
+        "projectPath": "/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Infrastructure/WalletApi.Modules.Wallets.Infrastructure.csproj",
+        "packagesPath": "/Users/jonatasolzirismartins/.nuget/packages/",
+        "outputPath": "/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jonatasolzirismartins/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/ModularMonolith.Shared.csproj": {
+                "projectPath": "/Users/jonatasolzirismartins/RiderProjects/ModularMonolith/ModularMonolith.Shared/ModularMonolith.Shared.csproj"
+              },
+              "/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Core/WalletApi.Modules.Wallets.Core.csproj": {
+                "projectPath": "/Users/jonatasolzirismartins/RiderProjects/WalletApi/WalletApi.Modules.Wallets.Core/WalletApi.Modules.Wallets.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.0" />
+      <PackageReference Include="WolverineFx" Version="1.19.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ModularMonolith.Modules.Users.Shared\ModularMonolith.Modules.Users.Shared.csproj" />
+      <ProjectReference Include="..\WalletApi.Modules.Wallets.Core\WalletApi.Modules.Wallets.Core.csproj" />
+      <ProjectReference Include="..\WalletApi.Modules.Wallets.Infrastructure\WalletApi.Modules.Wallets.Infrastructure.csproj" />
+
+    </ItemGroup>
+
+</Project>

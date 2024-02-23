@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.2">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.5.0" />
+        <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.5.0" />
+        <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
+        <PackageReference Include="WolverineFx.RabbitMQ" Version="1.20.1" />
+    </ItemGroup>
+    <!--   <ItemGroup>    <Reference Include="Microsoft.AspNetCore.Http.Abstractions">-->
+<!--        <HintPath>..\..\..\.dotnet\shared\Microsoft.AspNetCore.App\8.0.0\Microsoft.AspNetCore.Http.Abstractions.dll</HintPath>-->
+<!--      </Reference>-->
+<!--      <Reference Include="Microsoft.AspNetCore.Http.Results">-->
+<!--        <HintPath>..\..\..\.dotnet\shared\Microsoft.AspNetCore.App\8.0.0\Microsoft.AspNetCore.Http.Results.dll</HintPath>-->
+<!--      </Reference>-->
+<!--      <Reference Include="Microsoft.AspNetCore.Routing">-->
+<!--        <HintPath>..\..\..\.dotnet\shared\Microsoft.AspNetCore.App\8.0.0\Microsoft.AspNetCore.Routing.dll</HintPath>-->
+<!--      </Reference>-->
+<!--      <Reference Include="Microsoft.AspNetCore.Routing.Abstractions">-->
+<!--        <HintPath>..\..\..\.dotnet\shared\Microsoft.AspNetCore.App\8.0.0\Microsoft.AspNetCore.Routing.Abstractions.dll</HintPath>-->
+<!--      </Reference>-->
+<!--      <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions">-->
+<!--        <HintPath>..\..\..\.dotnet\shared\Microsoft.AspNetCore.App\8.0.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>-->
+<!--      </Reference>
+        
+    
+      <PackageReference Include="WolverineFx.RabbitMQ" Version="1.20.1" />
+    </ItemGroup>
+-->
+    <ItemGroup>
+      <ProjectReference Include="..\..\ModularMonolith\WalletApi.Modules.Wallets.Shared\WalletApi.Modules.Wallets.Shared.csproj" />
+      <ProjectReference Include="..\WalletApi.Modules.Wallets.Application\WalletApi.Modules.Wallets.Application.csproj" />
+    </ItemGroup>
+
+</Project>
